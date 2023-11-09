@@ -18,7 +18,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            Text(text = "Hello METANIT.COM!",
+            Text(text = "Hello Maa!",
                 style = TextStyle(
                     fontSize = 22.sp
                 )
